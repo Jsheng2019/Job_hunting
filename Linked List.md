@@ -180,7 +180,7 @@ public:
 
 ![image-20220822033121111](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822033121111.png)
 
-## 递归法
+**递归法**
 
 ```C++
 class Solution {
@@ -204,7 +204,7 @@ public:
 };
 ```
 
-## 头插法
+**头插法**
 
 ![image.png](https://pic.leetcode-cn.com/1615105296-bmiPxl-image.png)
 
@@ -231,7 +231,7 @@ public:
 };
 ```
 
-## 分割+翻转+拼接
+**分割+翻转+拼接**
 
 ![image.png](https://pic.leetcode-cn.com/1615105168-ZQRZew-image.png)
 
@@ -359,7 +359,7 @@ public:
 
 # [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists/)
 
-##  迭代
+**迭代**
 
 ```C++
 class Solution {
@@ -383,7 +383,7 @@ public:
 };
 ```
 
-##  递归
+**递归**
 
 
 ```C++
@@ -405,7 +405,7 @@ public:
 
 # [23. 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/)
 
-## 分治合并
+**分治合并**
 
 
 ```c++
@@ -434,7 +434,7 @@ public:
 };
 ```
 
-## 优先队列
+**优先队列**
 
 **关于优先队列自定义比较器：**
 
@@ -514,7 +514,7 @@ public:
 
 ![image-20220822033239137](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822033239137.png)
 
-## 哈希表
+**哈希表**
 
 ```C++
 
@@ -532,7 +532,7 @@ public:
 };
 ```
 
-## 快慢指针
+**快慢指针**
 
 ```C++
 class Solution {
@@ -554,7 +554,7 @@ public:
 
 ![image-20220822033317636](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822033317636.png)
 
-## **寻找链表中点 + 链表逆序 + 合并链表**
+**寻找链表中点 + 链表逆序 + 合并链表**
 
 ```c++
 class Solution {
@@ -594,7 +594,7 @@ public:
 };
 ```
 
-## **线性表**
+**线性表**
 
 ```c++
 class Solution {
@@ -707,7 +707,7 @@ private:
 
 ![image-20220822142603326](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822142603326.png)
 
-## 递归
+**递归**
 
 ```C++
 class Solution {
@@ -724,7 +724,7 @@ public:
 };
 ```
 
-## 迭代
+**迭代**
 
 ```c++
 class Solution {
@@ -750,7 +750,7 @@ public:
 
 ![image-20220822041852380](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822041852380.png)
 
-## 双指针
+**双指针**
 
 ```C++
 class Solution {
@@ -774,7 +774,7 @@ public:
 };
 ```
 
-## 迭代
+**迭代**
 
 ```C++
 class Solution {
@@ -795,7 +795,7 @@ public:
 
 ```
 
-## 递归（没必要）
+**递归（没必要）**
 
 ```C++
 class Solution {
@@ -822,7 +822,7 @@ public:
 
 ![image-20220822033428568](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822033428568.png)
 
-## 迭代
+**迭代**
 
 ```C++
 class Solution {
@@ -850,7 +850,7 @@ public:
 };
 ```
 
-## 递归
+**递归**
 
 ```C++
 class Solution {
@@ -873,7 +873,7 @@ public:
 };
 ```
 
-## 利用计数，两次遍历
+**利用计数，两次遍历**
 
 ```c++
 class Solution {
@@ -905,7 +905,7 @@ public:
 
 ![image-20220822035752749](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822035752749.png)
 
-## 双指针
+**双指针**
 
 ```C++
 class Solution {
@@ -930,7 +930,7 @@ public:
 };
 ```
 
-## 递归
+**递归**
 
 ```C++
 class Solution {
@@ -957,7 +957,7 @@ public:
 
 ![image-20220822034518796](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822034518796.png)
 
-## 迭代
+**迭代**
 
 ```C++
 class Solution {
@@ -980,7 +980,7 @@ public:
 };
 ```
 
-## 递归
+**递归**
 
 ```C++
 class Solution {
@@ -999,7 +999,7 @@ public:
 
 ![image-20220822035005899](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822035005899.png)
 
-## 快慢指针
+**快慢指针**
 
 ```C++
 class Solution {
@@ -1039,7 +1039,7 @@ public:
 };
 ```
 
-## 哈希表
+**哈希表**
 
 ```C++
 class Solution {
@@ -1060,7 +1060,7 @@ public:
 
 # [142. 环形链表 II](https://leetcode.cn/problems/linked-list-cycle-ii/)
 
-## 双指针
+**双指针**
 
 ```C++
 class Solution {
@@ -1107,7 +1107,7 @@ public class Solution {
 
 ![image-20220822035246145](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822035246145.png)
 
-## 快慢指针+反转链表
+**快慢指针+反转链表**
 
 ```C++
 class Solution {
@@ -1142,7 +1142,7 @@ public:
 };
 ```
 
-## 使用辅助数组
+**使用辅助数组**
 
 ```C++
 class Solution {
@@ -1174,7 +1174,7 @@ public:
 
 ![image-20220822141040527](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822141040527.png)
 
-## 宏观递归
+**宏观递归**
 
 ```C++
 class Solution {
@@ -1205,7 +1205,7 @@ public:
 };
 ```
 
-## 中序遍历
+**中序遍历**
 
 ```C++
 class Solution {
@@ -1235,7 +1235,7 @@ private:
 
 ![image-20220822141820536](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822141820536.png)
 
-## 哈希表
+**哈希表**
 
 ```c++
 class Solution {
@@ -1285,7 +1285,7 @@ public:
 };
 ```
 
-## 归并排序
+**归并排序**
 
 ```C++
 class Solution {
@@ -1324,7 +1324,7 @@ public:
 
 ![image-20220822144837779](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822144837779.png)
 
-## 双指针
+**双指针**
 
 ```C++
 class Solution {
@@ -1347,7 +1347,7 @@ public:
 
 ![image-20220822145315419](C:\Users\85731\AppData\Roaming\Typora\typora-user-images\image-20220822145315419.png)
 
-## 拆分链表
+**拆分链表**
 
 ```C++
 class Solution {
@@ -1377,7 +1377,7 @@ public:
 };
 ```
 
-## 哈希表
+**哈希表**
 
 ```C++
 class Solution {
