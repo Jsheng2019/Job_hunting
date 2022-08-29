@@ -126,7 +126,7 @@ public:
 ```
 
 # [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
-## **递归（好理解版本）**
+**递归（好理解版本）**
 
 ```c++
 class Solution {
@@ -143,7 +143,7 @@ public:
     }
 };
 ```
-## 递归（不好理解版本）
+**递归（不好理解版本）**
 
 ```c++
 class Solution {
@@ -157,7 +157,7 @@ public:
     }
 };
 ```
-## 迭代
+**迭代**
 
 ```c++
 class Solution {
